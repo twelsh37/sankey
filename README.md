@@ -1,5 +1,5 @@
-# sankey
-These are the CSV files I reference in my Medium article regarding [Plotly Sankey Diagrams](https://medium.com/p/3ee263a81549)
+# Data for creating Sankey diagrams reference in my Medium article
+These are the CSV files I reference in my Medium article regarding [Understanding Plotly Sankey Diagrams](https://medium.com/p/3ee263a81549)
 
 ## The Test Files
 | Filename        	| Description                                                                                                      	|
