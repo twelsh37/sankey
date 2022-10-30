@@ -1,0 +1,80 @@
+﻿l1,l2,l3,weight
+Operational Risk,Financial Crime Risk,External Fraud,9
+Operational Risk,Operations ,Payment Processing,14
+Operational Risk,Operations ,Payment Processing,19
+Operational Risk,Client Money Segregation,Client Money Seg,13
+Operational Risk,Operations ,Transaction Operations,5
+Operational Risk,Operations ,Transaction Operations,12
+Operational Risk,Operations ,Transaction Operations,16
+Operational Risk,Operations ,Transaction Operations,10
+Operational Risk,Regulatory & Compliance Risk,Regulatory Risk,8
+Operational Risk,Regulatory & Compliance Risk,Regulatory Risk,15
+Operational Risk,People,Capacity (Inadequate Resources),20
+Operational Risk,People,Skills/Knowledge Gaps,17
+Operational Risk,Outsourcing and Procurement,Dealing with External Suppliers,4
+Operational Risk,Business Change,Business Process Change,12
+Operational Risk,Information & Data Security,Data Protection,19
+Internal  fraud,Unauthorised Activity,Transactions not reported (intentional),6
+Internal  fraud,Unauthorised Activity,Trans type unauthorised (w/monetary loss),10
+Internal  fraud,Unauthorised Activity,Mismarking of position (intentional),9
+Internal  fraud,Theft and Fraud,Fraud  / credit fraud / worthless deposits,4
+Internal  fraud,Theft and Fraud,Theft / extortion / embezzlement / robbery,20
+Internal  fraud,Theft and Fraud,Misappropriation of assets,18
+Internal  fraud,Theft and Fraud,Malicious destruction of assets,20
+Internal  fraud,Theft and Fraud,Forgery,4
+Internal  fraud,Theft and Fraud,Check kiting Smuggling,7
+Internal  fraud,Theft and Fraud,Account take-over / impersonation / etc.,5
+Internal  fraud,Theft and Fraud,Tax non-compliance / evasion (wilful),15
+Internal  fraud,Theft and Fraud,Bribes / kickbacks,6
+Internal  fraud,Theft and Fraud,Insider trading (not on firm’s account),8
+External fraud,Theft and Fraud,Theft/Robbery,4
+External fraud,Theft and Fraud,Forgery,18
+External fraud,Theft and Fraud,Check kiting,19
+External fraud,Systems Security,Hacking damage,18
+External fraud,Systems Security,Theft of information (w/monetary loss),13
+Employment  Practices and Workplace Safety,Employee Relations,"Compensation, benefit, termination issues Organised labour activity",6
+Employment  Practices and Workplace Safety,Safe Environment,"General liability (slip and fall, etc.)",17
+Employment  Practices and Workplace Safety,Safe Environment,Employee health & safety rules events,11
+Employment  Practices and Workplace Safety,Safe Environment,Workers compensation,15
+Employment  Practices and Workplace Safety,Diversity & Discrimination,All discrimination types,11
+"Clients, Products & Business Practices","Suitability, Disclosure & Fiduciary",Fiduciary breaches / guideline violations,1
+"Clients, Products & Business Practices","Suitability, Disclosure & Fiduciary","Suitability / disclosure issues (KYC, etc.)",11
+"Clients, Products & Business Practices","Suitability, Disclosure & Fiduciary",Retail consumer disclosure violations,13
+"Clients, Products & Business Practices","Suitability, Disclosure & Fiduciary",Breach of privacy,20
+"Clients, Products & Business Practices","Suitability, Disclosure & Fiduciary",Aggressive sales,9
+"Clients, Products & Business Practices","Suitability, Disclosure & Fiduciary",Account churning,3
+"Clients, Products & Business Practices","Suitability, Disclosure & Fiduciary",Misuse of confidential information,12
+"Clients, Products & Business Practices","Suitability, Disclosure & Fiduciary",Lender Liability,10
+"Clients, Products & Business Practices",Improper Business or Market Practices,Antitrust,11
+"Clients, Products & Business Practices",Improper Business or Market Practices,Improper trade / market practices,16
+"Clients, Products & Business Practices",Improper Business or Market Practices,Market manipulation,10
+"Clients, Products & Business Practices",Improper Business or Market Practices,Insider trading (on firm’s account),8
+"Clients, Products & Business Practices",Improper Business or Market Practices,Unlicensed activity,2
+"Clients, Products & Business Practices",Improper Business or Market Practices,Money laundering,16
+"Clients, Products & Business Practices",Product Flaws,"Product defects (unauthorised, etc.) Model errors",6
+"Clients, Products & Business Practices","Selection, Sponsorship & Exposure",Failure to investigate client per guidelines Exceeding client exposure limits,2
+"Clients, Products & Business Practices",Advisory Activities,Disputes over performance of advisory activities,8
+Damage to Physical Assets,Disasters and other events,Natural disaster losses,5
+Damage to Physical Assets,Disasters and other events,"Human losses from external sources (terrorism, vandalism)",16
+Business disruption and system failures,Systems,Hardware,12
+Business disruption and system failures,Systems,Software,17
+Business disruption and system failures,Systems,Telecommunications,14
+Business disruption and system failures,Systems,Utility outage / disruptions,18
+"Execution, Delivery & Process Management","Transaction  Capture, execution & Maintenance",Miscommunication,8
+"Execution, Delivery & Process Management","Transaction  Capture, execution & Maintenance","Data entry, maintenance or loading error",1
+"Execution, Delivery & Process Management","Transaction  Capture, execution & Maintenance",Missed deadline or responsibility,9
+"Execution, Delivery & Process Management","Transaction  Capture, execution & Maintenance",Model / system misoperation,9
+"Execution, Delivery & Process Management","Transaction  Capture, execution & Maintenance",Accounting error / entity attribution error,20
+"Execution, Delivery & Process Management","Transaction  Capture, execution & Maintenance",Other task misperformance,8
+"Execution, Delivery & Process Management","Transaction  Capture, execution & Maintenance",Delivery failure,2
+"Execution, Delivery & Process Management","Transaction  Capture, execution & Maintenance",Collateral management failure,2
+"Execution, Delivery & Process Management","Transaction  Capture, execution & Maintenance",Reference Data Maintenance,15
+"Execution, Delivery & Process Management",Monitoring and Reporting,Failed mandatory reporting obligation,17
+"Execution, Delivery & Process Management",Monitoring and Reporting,Inaccurate external report (loss incurred),11
+"Execution, Delivery & Process Management",Customer Intake and Documentation,Client permissions / disclaimers missing Legal documents missing / incomplete,7
+"Execution, Delivery & Process Management",Customer / Client Account Management,Unapproved access given to accounts,14
+"Execution, Delivery & Process Management",Customer / Client Account Management,Incorrect client records (loss incurred),12
+"Execution, Delivery & Process Management",Customer / Client Account Management,Negligent loss or damage of client assets,8
+"Execution, Delivery & Process Management",Trade Counterparties,Non-client counterparty misperformance Misc. non-client counterparty disputes,14
+"Execution, Delivery & Process Management",Vendors & Suppliers,Outsourcing,13
+"Execution, Delivery & Process Management",Vendors & Suppliers,Vendor disputes,3

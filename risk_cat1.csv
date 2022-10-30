@@ -1,0 +1,11 @@
+﻿l1,l2,l3,weight
+Operational Risk,Financial Crime Risk,External Fraud,10
+Operational Risk,Operations ,Payment Processing,2
+Operational Risk,Client Money Segregation,Client Money Seg,1
+Operational Risk,Operations ,Transaction Operations,4
+Operational Risk,Regulatory & Compliance Risk,Regulatory Risk,2
+Operational Risk,People,Capacity (Inadequate Resources),1
+Operational Risk,People,Skills/Knowledge Gaps,1
+Operational Risk,Outsourcing and Procurement,Dealing with External Suppliers,1
+Operational Risk,Business Change,Business Process Change,1
+Operational Risk,Information & Data Security,Data Protection,20
